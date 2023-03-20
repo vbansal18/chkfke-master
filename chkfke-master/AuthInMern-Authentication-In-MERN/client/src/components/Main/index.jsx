@@ -84,7 +84,7 @@ return (
           </div>
           <div class="flex-grow">
             <h2 class="text-gray-900 text-lg title-font font-medium mb-3">Deploy On Blockchain</h2>
-			<button class="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0" > <a href=""></a>  Click Here</button>
+			<button class="inline-flex items-center bg-green-800 border-0 py-1 px-3 focus:outline-none hover:bg-black-100 rounded text-base mt-4 md:mt-0" > <a href="https://opensea.io/asset/create"> Click Here </a> </button>
           </div>
         </div>
       </div>
